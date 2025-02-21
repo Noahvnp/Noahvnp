@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+<img src="github_banner.png" alt="GitHub Banner" width="100%" border-radius="20%" box-shadow ="0 8px 16px rgba(0, 0, 0, 0.2)" />
 
 <br>📫 How to reach me phanvannam.dev@gmail.com
 
@@ -13,3 +13,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahvnp&theme=dark&hide_border=false&show_icons=true&locale=en" alt="noahvnp" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahvnp&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="noahvnp" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noahvnp/Noahvnp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noahvnp/Noahvnp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Noahvnp/Noahvnp/output/github-snake.svg" />
+</picture>
