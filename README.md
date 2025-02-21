@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="GitHub Banner" width="100%" border-radius="20%" box-shadow ="0 8px 16px rgba(0, 0, 0, 0.2)" />
+<img src="github_banner1.png" alt="GitHub Banner" width="100%" border-radius="20%" box-shadow ="0 8px 16px rgba(0, 0, 0, 0.2)" />
 
 <br>📫 How to reach me phanvannam.dev@gmail.com
 
