@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahvnp&&theme=dark&hide_border=false" alt="noahvnp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahvnp&theme=dark&hide_border=false" alt="noahvnp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahvnp&theme=dark&hide_border=false&show_icons=true&locale=en" alt="noahvnp" /></p>
 
